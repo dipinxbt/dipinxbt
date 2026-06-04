@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <style>
+      .hat-bob { animation: bob 3.5s ease-in-out infinite; }
+      @keyframes bob {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-7px); }
+      }
+      .star-twinkle { animation: twinkle 3s infinite alternate; }
+      @keyframes twinkle {
+        0% { opacity: 0.15; }
+        100% { opacity: 0.9; }
+      }
+    </style>
+    <linearGradient id="bgG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#03045E"/>
+      <stop offset="55%" style="stop-color:#0077B6"/>
+      <stop offset="100%" style="stop-color:#00B4D8"/>
+    </linearGradient>
+    <radialGradient id="domeG" cx="38%" cy="25%" r="68%">
+      <stop offset="0%" style="stop-color:#F7E870"/>
+      <stop offset="45%" style="stop-color:#D4A818"/>
+      <stop offset="100%" style="stop-color:#9A7008"/>
+    </radialGradient>
+    <radialGradient id="brimG" cx="50%" cy="15%" r="85%">
+      <stop offset="0%" style="stop-color:#E8C040"/>
+      <stop offset="100%" style="stop-color:#8A6010"/>
+    </radialGradient>
+    <linearGradient id="bandG" x1="0%" y1="0%" x2="0%" y2="1">
+      <stop offset="0%" style="stop-color:#DD1111"/>
+      <stop offset="40%" style="stop-color:#FF2222"/>
+      <stop offset="100%" style="stop-color:#990000"/>
+    </linearGradient>
+    <linearGradient id="underG" x1="0%" y1="0%" x2="0%" y2="1">
+      <stop offset="0%" style="stop-color:#7A5005"/>
+      <stop offset="100%" style="stop-color:#4A2A02"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bgG)"/>
+  
+  <!-- Stars -->
+  <circle class="star-twinkle" cx="30" cy="18" r="1.5" fill="#CAF0F8"/>
+  <circle class="star-twinkle" cx="75" cy="32" r="1" fill="white"/>
+  <circle class="star-twinkle" cx="120" cy="14" r="1.5" fill="#ADE8F4"/>
+  <circle class="star-twinkle" cx="200" cy="28" r="1" fill="white"/>
+  <circle cx="340" cy="22" r="1" fill="white" opacity="0.5"/>
+  <circle cx="500" cy="25" r="1" fill="white" opacity="0.5"/>
+
+  <!-- Waves -->
+  <path d="M0,170 C120,158 240,178 360,164 C480,150 600,172 720,158 C800,148 870,165 900,158 L900,200 L0,200 Z" fill="#00B4D8" opacity="0.35"/>
+  <path d="M0,180 C150,168 300,188 450,174 C600,160 750,184 900,170 L900,200 L0,200 Z" fill="#0077B6" opacity="0.42"/>
+  <path d="M0,192 C200,180 400,198 600,186 C750,177 860,194 900,188 L900,200 L0,200 Z" fill="#023E8A" opacity="0.55"/>
+
+  <!-- Text: Dipin (Centered slightly left to balance hat) -->
+  <text x="360" y="108" font-family="'Segoe UI',Arial,sans-serif" font-size="76" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">Dipin</text>
+  
+  <!-- Subtitle -->
+  <text x="360" y="146" font-family="Arial,sans-serif" font-size="16" fill="#90E0EF" text-anchor="middle" letter-spacing="2.5">Student  ·  Blockchain Explorer</text>
+
+  <!-- Straw Hat (Right Side, Tilted) -->
+  <g transform="translate(780, 75) rotate(-15)">
+    <g class="hat-bob">
+      <!-- Shadow -->
+      <ellipse cx="0" cy="54" rx="108" ry="16" fill="url(#underG)" opacity="0.85"/>
+      <!-- Brim -->
+      <ellipse cx="0" cy="52" rx="108" ry="18" fill="url(#brimG)" stroke="#3A1E00" stroke-width="3"/>
+      <!-- Dome -->
+      <ellipse cx="0" cy="0" rx="66" ry="62" fill="url(#domeG)" stroke="#3A1E00" stroke-width="3"/>
+      <!-- Stitching details -->
+      <ellipse cx="0" cy="-38" rx="48" ry="7" fill="none" stroke="#8A6005" stroke-width="1" opacity="0.38"/>
+      <ellipse cx="0" cy="-15" rx="63" ry="9" fill="none" stroke="#8A6005" stroke-width="1" opacity="0.32"/>
+      <ellipse cx="0" cy="12" rx="66" ry="9" fill="none" stroke="#8A6005" stroke-width="0.9" opacity="0.28"/>
+      <ellipse cx="0" cy="36" rx="64" ry="8" fill="none" stroke="#8A6005" stroke-width="0.9" opacity="0.22"/>
+      <!-- Red Band -->
+      <path d="M-66,37 Q0,22 66,37 Q66,57 0,50 Q-66,57 -66,37 Z" fill="url(#bandG)" stroke="#770000" stroke-width="1.5"/>
+      <!-- Band Highlight -->
+      <path d="M-63,38 Q0,24 63,38" stroke="#FF5555" stroke-width="2" fill="none" opacity="0.4"/>
+    </g>
+  </g>
+</svg>
