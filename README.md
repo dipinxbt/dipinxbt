@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dipin13k/dipin13k/main/assets/header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dipinxbt/dipinxbt/main/assets/header.svg" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=00B4D8&center=true&vCenter=true&width=530&lines=Student+%2B+Blockchain+Explorer;Learning+to+code+every+single+day;From+Nepal;Still+early.+Still+building.)](https://github.com/dipin13k)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=00B4D8&center=true&vCenter=true&width=530&lines=Student+%2B+Blockchain+Explorer;Learning+to+code+every+single+day;From+Nepal;Still+early.+Still+building.)](https://github.com/dipinxbt)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dipin13k&label=Profile+Views&color=00B4D8&labelColor=03045E&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dipinxbt&label=Profile+Views&color=00B4D8&labelColor=03045E&style=for-the-badge"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/dipin13k?style=for-the-badge&color=00B4D8&label=Followers&labelColor=03045E&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/dipinxbt?style=for-the-badge&color=00B4D8&label=Followers&labelColor=03045E&logo=github&logoColor=white"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-I’m **Dipin**, a student from Nepal learning how code and blockchain can make life better.
+I'm **Dipin**, a student from Nepal learning how code and blockchain can make life better.
 
 <br/>
 
@@ -44,7 +44,7 @@ I’m **Dipin**, a student from Nepal learning how code and blockchain can make 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/dipin13k/dipin13k/main/assets/ocean-anim.svg" width="320"/>
+<img src="https://raw.githubusercontent.com/dipinxbt/dipinxbt/main/assets/ocean-anim.svg" width="320"/>
 
 <br/><br/>
 
@@ -104,7 +104,7 @@ I’m **Dipin**, a student from Nepal learning how code and blockchain can make 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dipin13k&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=0077B6&sideNums=FFFFFF&sideLabels=00B4D8&dates=8b949e&currStreakNum=FFFFFF&currStreakLabel=00B4D8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dipinxbt&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=0077B6&sideNums=FFFFFF&sideLabels=00B4D8&dates=8b949e&currStreakNum=FFFFFF&currStreakLabel=00B4D8)](https://git.io/streak-stats)
 
 </div>
 
@@ -131,9 +131,9 @@ Real-time weather data with a clean, fast interface. Search any city and get liv
 
 <br/><br/>
 
-<a href="https://dipin13k.github.io/weather-site/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
+<a href="https://dipinxbt.github.io/weather-site/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/dipin13k/weather-site"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dipinxbt/weather-site"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 </td>
@@ -152,9 +152,9 @@ Organize and search your code snippets in one place. Built so you can find anyth
 
 <br/><br/>
 
-<a href="https://dipin13k.github.io/code-snippets/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
+<a href="https://dipinxbt.github.io/code-snippets/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/dipin13k/code-snippets"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dipinxbt/code-snippets"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 </td>
@@ -175,9 +175,9 @@ A task manager with drag and drop and real-time updates. Clean and simple, built
 
 <br/><br/>
 
-<a href="https://dipin13k.github.io/task-manager/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
+<a href="https://dipinxbt.github.io/task-manager/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/dipin13k/task-manager"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dipinxbt/task-manager"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 </td>
@@ -196,9 +196,9 @@ Automatically saves and shows a new quote every single day using GitHub Actions.
 
 <br/><br/>
 
-<a href="https://dipin13k.github.io/daily-quotes/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
+<a href="https://dipinxbt.github.io/daily-quotes/"><img src="https://img.shields.io/badge/Live_Demo-0077B6?style=for-the-badge&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/dipin13k/daily-quotes"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dipinxbt/daily-quotes"><img src="https://img.shields.io/badge/Repository-03045E?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 </td>
@@ -211,7 +211,7 @@ Automatically saves and shows a new quote every single day using GitHub Actions.
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipin13k&bg_color=03045E&color=90E0EF&line=00B4D8&point=FFFFFF&area=true&area_color=0077B6&hide_border=true)](https://github.com/dipin13k)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipinxbt&bg_color=03045E&color=90E0EF&line=00B4D8&point=FFFFFF&area=true&area_color=0077B6&hide_border=true)](https://github.com/dipinxbt)
 
 <br/>
 
@@ -225,7 +225,7 @@ Automatically saves and shows a new quote every single day using GitHub Actions.
 <a href="https://discord.com/users/732135103907627120"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="48"/></a>
 <a href="https://linkedin.com/in/dipin130k"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48"/></a>
 <a href="mailto:garena746130@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="48"/></a>
-<a href="https://github.com/dipin13k"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/></a>
+<a href="https://github.com/dipinxbt"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="48"/></a>
 
 </div>
 
